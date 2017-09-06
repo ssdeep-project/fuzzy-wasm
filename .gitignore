@@ -1,0 +1,8 @@
+.*
+!.git?*
+
+*.bc
+*.s
+*.wasm
+*.wast
+*.ll
